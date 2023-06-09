@@ -1,0 +1,62 @@
+body {
+  background-color: #16d981;
+}
+
+.common {
+  margin: 20px;
+  border-radius: 10px;
+  color: #000000;
+  background-color: #343cb0;
+  border: 20px solid #170101;
+  text-align: center;
+  padding: 10px;
+}
+.end {
+  margin: 20px 10px;
+  border-radius: 10px;
+  color: #000000;
+  background-color: #0ca0b0;
+  border: 20px solid #350101;
+  text-align: center;
+  padding: 10px;
+}
+.named {
+  margin: 20px 10px;
+  border-radius: 10px;
+  color: #000000;
+  background-color: #343cb0;
+  border: 20px solid #170101;
+  padding: 10px;
+}
+.qui {
+  margin: 20px;
+  border-radius: 10px;
+  color: #000000;
+  background-color: #343cb0;
+  border: 20px solid #170101;
+  padding: 10px;
+}
+.give {
+  margin: 20px;
+  border-radius: 10px;
+  color: #000000;
+  background-color: #0ca0b0;
+  border: 20px solid #350101;
+  padding: 10px;
+}
+.join {
+  margin: 20px;
+  border-radius: 10px;
+  color: #000000;
+  border: 20px solid #440048;
+  text-align: center;
+  font-family: italic;
+  padding: 10px;
+}
+.boy {
+  margin: 20px;
+  border-radius: 10px;
+  color: #000000;
+  border: 20px solid #160048;
+  padding: 10px;
+}
